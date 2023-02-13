@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taurusites
-- 👀 I’m interested in ...React, Laravel and Clarity for now
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ...DevOps, React, Laravel and Clarity for now
+- 🌱 I’m currently learning ...React and DevOps
 - 💞️ I’m looking to collaborate on ...nothing right now
 - 📫 How to reach me ...
 
